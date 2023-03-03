@@ -4,3 +4,9 @@ PIL
 networkx
 matplotlib
 sklearn
+re
+os
+gzip
+shutil
+SimpleITK
+scipy
